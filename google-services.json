@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "185897643607",
+    "project_id": "agroai-2065c",
+    "storage_bucket": "agroai-2065c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185897643607:android:acfc62062a55997e2f3d12",
+        "android_client_info": {
+          "package_name": "com.mizzenmast.agroai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW4g0cYnUCAqyNYgTMM_uUGsQttFJWYU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
